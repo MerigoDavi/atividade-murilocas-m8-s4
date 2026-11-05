@@ -96,7 +96,7 @@ Vai ficar repetivo mas faz parte
 - ![grafo](graph.png)
 
 3:
-- | x | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| x | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|---|
 | 0 | - | 13 | 17 | - | - | - | - | - |
 | 1 | 13 | - | 9 | 12 | 23 | - | - | - |
@@ -122,6 +122,7 @@ Vai ficar repetivo mas faz parte
 3
 - ![matriz](matriz.png)
 - ![dijsktra](dijsktra.png)
+
 4
 - Analisado e confirmado que estão corretos os valores
 - Custos: tabela e código deram igual, 0, 13, 17, 25, 30, 32, 39 até fechar o S6
@@ -141,7 +142,7 @@ Vai ficar repetivo mas faz parte
 - Sem e5, a rota ótima continua S0 -> S1 -> S3 -> S6 = 39 km. O acréscimo é 0 km (0%), porque e5 não faz parte da rota até S6.
 
 3
-- | Ramal | Peso |
+| Ramal | Peso |
 |---|---|
 | S0–S1 | 13 |
 | S1–S2 | 9 |
